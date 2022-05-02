@@ -1,11 +1,16 @@
-.img{
-    background-image: url(./img/pattern.png);
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(27, 113, 235);
+    background-size: 30%;
+
+
 }
 .logo{
     width: 12%;
 }
 h1{
     font-size: 50px;
+    margin-top: 0;
     margin-bottom: 0;
 }
 a{
@@ -14,3 +19,12 @@ a{
 ul{
     padding-left: 15px;
 }
+thead{
+    background-color: blue;
+}
+th{
+    color:blanchedalmond;
+}
+.one{
+    background-color:aqua;
+  }
