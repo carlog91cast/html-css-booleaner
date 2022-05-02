@@ -1,22 +1,58 @@
+
+
 header {
     background-image: url(../img/pattern.png);
-    background-color: rgb(27, 113, 235);
+    background-color: #4ea0fb;
     background-size: 30%;
 
 
 }
+/* bonus */
 
-
-.logo{
-    width: 12%;
+/* main {
+    margin-left: 10%;
+    margin-right: 10%;
 }
+footer {
+    margin-left: 10%;
+    margin-right: 10%;
+} */
+
+
+#logo{
+    width: 200px;
+    padding: 40px 0px 5px 25px;
+}
+
 h1{
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 0;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: url(https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCXAA.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+.img{
+    margin: 0px;
+    padding: 0;
+}
+
+#date {
+    color: gray;   
+    font-size: 12px;
+    margin: 0;
+}
+span{
+    font-size: 12px;
+    margin-top: 0;
+}
+
 h4{
-    color: lightgray;
+    color: gray;
+    margin: 0;
+    padding: 0;
 }
 a{
     color: rgb(66, 153, 219);
@@ -26,9 +62,11 @@ ul{
 }
 thead{
     background-color: blue;
+    
 }
 th{
     color:blanchedalmond;
+    
 }
 .one{
     background-color:aqua;
