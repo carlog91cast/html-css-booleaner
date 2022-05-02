@@ -1,6 +1,16 @@
 .img{
-    background-image: url(pattern.png);
+    background-image: url(./img/pattern.png);
 }
 .logo{
-    width: 30px;
+    width: 12%;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+a{
+    color: rgb(66, 153, 219);
+}
+ul{
+    padding-left: 15px;
 }
